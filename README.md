@@ -48,11 +48,6 @@ This Python project uses **Google Gemini AI** to recommend Hindi songs based on 
    cd hindi-song-recommender
    ```
 
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. **Set up your `.env` file:**
    Create a `.env` file in the root folder and add your Google API key:
    ```env
